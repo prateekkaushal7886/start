@@ -1,0 +1,248 @@
+Uri: https://friseur.000webhostapp.com/
+File Name: F:\New folder\friseur.000webhostapp.com\index.htm
+Content Type: text/html
+
+Uri: https://friseur.000webhostapp.com/css/styles.css
+File Name: F:\New folder\friseur.000webhostapp.com\css\styles.css
+Content Type: text/css
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-57x57.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-60x60.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-72x72.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-76x76.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-114x114.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-120x120.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-144x144.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-152x152.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/apple-touch-icon-180x180.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/favicon-32x32.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/android-chrome-192x192.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/favicon-16x16.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/favicons/manifest.json
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\manifest.json
+Content Type: application/json
+
+Uri: https://friseur.000webhostapp.com/img/favicons/safari-pinned-tab.svg
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://friseur.000webhostapp.com/img/favicons/favicon.ico
+File Name: F:\New folder\friseur.000webhostapp.com\img\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://friseur.000webhostapp.com/index-slideshow.html
+File Name: F:\New folder\friseur.000webhostapp.com\index-slideshow.htm
+Content Type: text/html
+
+Uri: https://friseur.000webhostapp.com/index-video.html
+File Name: F:\New folder\friseur.000webhostapp.com\index-video.htm
+Content Type: text/html
+
+Uri: https://friseur.000webhostapp.com/img/logo/logo.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/background/slideshow.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\slideshow.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/background/video.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\video.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/js/script.js
+File Name: F:\New folder\friseur.000webhostapp.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://friseur.000webhostapp.com/img/background/preview-img.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\preview-img.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/css/animated-headlines.css
+File Name: F:\New folder\friseur.000webhostapp.com\css\animated-headlines.css
+Content Type: text/css
+
+Uri: https://friseur.000webhostapp.com/css/datepicker.css
+File Name: F:\New folder\friseur.000webhostapp.com\css\datepicker.css
+Content Type: text/css
+
+Uri: https://friseur.000webhostapp.com/css/styles-slideshow.css
+File Name: F:\New folder\friseur.000webhostapp.com\css\styles-slideshow.css
+Content Type: text/css
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/1.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\1.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/services/hair-styling.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\hair-styling.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/hair-cut.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\hair-cut.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/hair-color.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\hair-color.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/hair-wash.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\hair-wash.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/face-mask.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\face-mask.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/shave.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\shave.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/beard-trim.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\beard-trim.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/services/moustache-trim.png
+File Name: F:\New folder\friseur.000webhostapp.com\img\services\moustache-trim.png
+Content Type: image/png
+
+Uri: https://friseur.000webhostapp.com/img/testmonials/1.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\testmonials\1.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/testmonials/2.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\testmonials\2.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/testmonials/3.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\testmonials\3.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/js/bootstrap-datepicker.js
+File Name: F:\New folder\friseur.000webhostapp.com\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://friseur.000webhostapp.com/js/animated-headlines.js
+File Name: F:\New folder\friseur.000webhostapp.com\js\animated-headlines.js
+Content Type: application/javascript
+
+Uri: https://friseur.000webhostapp.com/js/script-slideshow.js
+File Name: F:\New folder\friseur.000webhostapp.com\js\script-slideshow.js
+Content Type: application/javascript
+
+Uri: https://friseur.000webhostapp.com/css/styles-video.css
+File Name: F:\New folder\friseur.000webhostapp.com\css\styles-video.css
+Content Type: text/css
+
+Uri: https://friseur.000webhostapp.com/video/barber.ogv
+File Name: F:\New folder\friseur.000webhostapp.com\video\barber.ogv
+Content Type: video/ogg
+
+Uri: https://friseur.000webhostapp.com/video/barber.webm
+File Name: F:\New folder\friseur.000webhostapp.com\video\barber.webm
+Content Type: video/webm
+
+Uri: https://friseur.000webhostapp.com/video/barber.mp4
+File Name: F:\New folder\friseur.000webhostapp.com\video\barber.mp4
+Content Type: video/mp4
+
+Uri: https://friseur.000webhostapp.com/js/script-video.js
+File Name: F:\New folder\friseur.000webhostapp.com\js\script-video.js
+Content Type: application/javascript
+
+Uri: https://friseur.000webhostapp.com/img/background/about-bg.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\about-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/1.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/2.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/3.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/4.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\4.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/5.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\5.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/team/6.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\team\6.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/background/prices-bg.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\prices-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/background/testmonials-bg.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\background\testmonials-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/2.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\2.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/3.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\3.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/4.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\4.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/5.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\5.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/img/instagram-feed/6.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\img\instagram-feed\6.jpg
+Content Type: image/jpeg
+
+Uri: https://friseur.000webhostapp.com/video/snapshot.jpg
+File Name: F:\New folder\friseur.000webhostapp.com\video\snapshot.jpg
+Content Type: image/jpeg
+
