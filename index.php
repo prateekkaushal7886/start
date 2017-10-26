@@ -1,6 +1,28 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
    <head>
+
+
+
+
+ <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+ <script type="text/javascript">
+    
+$('#i1').click(function()
+{
+   window.location="food.php";
+});
+
+
+
+
+
+
+
+
+
+ </script>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="keywords" content="barber,barber shop,men’s,haircut,head,shave,beard,eyebrow,color,shampoo">
@@ -79,7 +101,7 @@
             <hr class="primary">
             <hr class="primary-right">
          </div>
-         <div class="services-items no-gutter">
+         <div class="services-items no-gutter" id="i1">
             <div class="row nopadding">
                <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
                   <div class="item-services-container">
@@ -96,7 +118,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
+               <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i2">
                   <div class="item-services-container">
                      <div class="item-services">
                         <div class="front">
@@ -111,7 +133,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
+               <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i3">
                   <div class="item-services-container">
                      <div class="item-services">
                         <div class="front">
@@ -126,7 +148,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
+               <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i4">
                   <div class="item-services-container">
                      <div class="item-services">
                         <div class="front">
