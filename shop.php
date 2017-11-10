@@ -5,6 +5,8 @@ $DB_NAME = 'start';
 $DB_HOST = 'localhost';
 $DB_USER = 'root';
 $DB_PASS = '';
+session_start();
+$type=$_SESSION['shop_name'];
 $connection = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 if ($connection->connect_error) {
   // die("Connecton failed: ".$connection->connect_error);
@@ -13,8 +15,8 @@ if ($connection->connect_error) {
 //  echo "Connection Successful<br>";
 }
 
-
-$sql=" SELECT * FROM user WHERE type= 'electronics' ";
+echo $type;
+$sql=" SELECT * FROM $type ";
 
 
 
@@ -126,7 +128,7 @@ $('#i1').click(function()
 
        <section id="services" class="services section-padding">
          <div class="title">
-            <h2>ELECTRONICS</h2>
+            <h2><?php echo $type; ?> SHOP</h2>
             <hr class="primary">
             <hr class="primary-right">
          </div>
@@ -143,15 +145,15 @@ foreach ($connection->query($sql) as $row) {
                         <div class="front">
                            <div class="icon-holder">
                               <img src="img\services\2.png" alt="HAIR STYLING"> 
-                              <h3>' . $row['shop_name'] . '</h3>
+                              <h3>' .$row['item_name'] .'<br /><br />' . $row['price']  . '</h3>
                            </div>
                         </div>
                         <div class="back">
-                           <p>' .$row['contact'] .'<br /><br />' . $row['address'] . '</p>
+                           <p>' .$row['specification'] .'<br /><br />' . $row['availability'] . '</p>
                         </div>
                      </div>
                   </div>
-                   <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary" >VISIT SHOP</button></div>
+                   <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary"  >VISIT SHOP</button></div>
                </div>
               
             

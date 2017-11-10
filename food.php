@@ -5,6 +5,9 @@ $DB_NAME = 'start';
 $DB_HOST = 'localhost';
 $DB_USER = 'root';
 $DB_PASS = '';
+session_start();
+$type=$_SESSION['shop_type'];
+
 $connection = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 if ($connection->connect_error) {
   // die("Connecton failed: ".$connection->connect_error);
@@ -14,7 +17,7 @@ if ($connection->connect_error) {
 }
 
 
-$sql=" SELECT * FROM user WHERE type= 'food' ";
+$sql=" SELECT * FROM user WHERE type='$type'";
 
 
 
@@ -25,6 +28,10 @@ $sql=" SELECT * FROM user WHERE type= 'food' ";
 
 
 ?>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+
 
 
 
@@ -39,24 +46,42 @@ $sql=" SELECT * FROM user WHERE type= 'food' ";
 
 
 
+ 
+
+
+
+
  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 
  <script type="text/javascript">
-    
-$('#i1').click(function()
+
+function call(item)
 {
-   window.location="food.php";
+   
+
+  $.ajax({  
+type: "POST",  
+ url: "getshopname.php", 
+ data: "album="+ item,
+ success: function(response) {
+  window.location=response;
+    }
 });
+}
 
 
-
-
+function call1(mag)
+{
+   alert(mag);
+}
 
 
 
 
 
  </script>
+
+
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="keywords" content="barber,barber shop,men’s,haircut,head,shave,beard,eyebrow,color,shampoo">
@@ -126,7 +151,7 @@ $('#i1').click(function()
 
        <section id="services" class="services section-padding">
          <div class="title">
-            <h2>FOOD SERVICES</h2>
+            <h2><?php echo $type; ?> SERVICES</h2>
             <hr class="primary">
             <hr class="primary-right">
          </div>
@@ -134,28 +159,29 @@ $('#i1').click(function()
             <div class="row nopadding">
      
 <?php
- 
+
 foreach ($connection->query($sql) as $row) {
-       echo '
-               <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
-                  <div class="item-services-container">
-                     <div class="item-services">
-                        <div class="front">
-                           <div class="icon-holder">
-                              <img src="img\services\2.png" alt="HAIR STYLING"> 
-                              <h3>' . $row['shop_name'] . '</h3>
+   $name=$row['shop_name'];
+       echo "
+               <div class='col-lg-3 col-md-6 col-sm-12 nopadding'>
+                  <div class='item-services-container'>
+                     <div class='item-services'>
+                        <div class='front'>
+                           <div class='icon-holder'>
+                              <img src='img\services\imagee.png' alt='HAIR STYLING'> 
+                              <h3>" . $row['shop_name'] . "</h3>
                            </div>
                         </div>
-                        <div class="back">
-                           <p>' .$row['contact'] .'<br /><br />' . $row['address'] . '</p>
+                        <div class='back'>
+                           <p>" .$row['contact'] ."<br /><br />" . $row['address'] . "</p>
                         </div>
                      </div>
                   </div>
-                   <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary" >VISIT SHOP</button></div>
+                   <div class='btn-group btn-primary-lg' width='100%''><button type='button' class='btn btn-primary' onclick='call(".json_encode($name).");'>VISIT SHOP</button></div>
                </div>
               
             
-          ';
+          ";
    
 }
 

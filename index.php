@@ -8,12 +8,20 @@
  <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 
  <script type="text/javascript">
-    
-$('#i1').click(function()
-{
-   window.location="food.php";
-});
 
+function call(item)
+{
+   
+
+  $.ajax({  
+type: "POST",  
+ url: "getshop.php", 
+ data: "album="+ item,
+ success: function(response) {
+  window.location=response;
+    }
+});
+}
 
 
 
@@ -117,6 +125,7 @@ $('#i1').click(function()
                         </div>
                      </div>
                   </div>
+                  <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary"  onclick="call('food');">VISIT SHOP</button></div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i2">
                   <div class="item-services-container">
@@ -132,6 +141,7 @@ $('#i1').click(function()
                         </div>
                      </div>
                   </div>
+                  <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary"  onclick="call('haircut');">VISIT SHOP</button></div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i3">
                   <div class="item-services-container">
@@ -147,6 +157,7 @@ $('#i1').click(function()
                         </div>
                      </div>
                   </div>
+                  <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary" onclick="call('electronics'); ">VISIT SHOP</button></div>
                </div>
                <div class="col-lg-3 col-md-6 col-sm-12 nopadding" id="i4">
                   <div class="item-services-container">
@@ -162,6 +173,7 @@ $('#i1').click(function()
                         </div>
                      </div>
                   </div>
+                  <div class="btn-group btn-primary-lg" width="100%"><button type="button" class="btn btn-primary"  onclick="call('sports');">VISIT SHOP</button></div>
                </div>
               <!-- <div class="col-lg-3 col-md-6 col-sm-12 nopadding">
                   <div class="item-services-container">
